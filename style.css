@@ -42,17 +42,27 @@ right:50px;
 
 #tetris{
   position:relative;
-  top:10px;
+  bottom:399px;
 }
 
 #L{
-
+ position:relative;
+  top:1500px;
+  left:100px;
+ z-index:4;
 }
 
 #T{
-
+position:relative;
+  top:1700px;
+  left:200px;
+ z-index:4;
 }
 
 #I{
+  position:relative;
+  top:1700px;
+  left:500px;
+ z-index:4;
 
 }
